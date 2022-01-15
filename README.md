@@ -9,8 +9,28 @@
  ## More about me
  ❤️ Programming | 🖤 Travelling | 💙 Nature
  
-I am a computer science engineer who graduated from Higher National Computer Science School known as ESI in Algeria. I am currently a full time student at Microverse, learning Full Stack Web Development. I like  collaborating with others to build digital solutions that solve real-world problems.
-
+I am a computer science engineer who graduated from Higher National Computer Science School known as ESI in Algeria. I am currently a full time student at Microverse, learning <i> Full Stack Web Development </i>. I like  collaborating with others to build digital solutions that solve real-world problems.
+<br>
+## My Tech Stack
+  
+  <br>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="5%" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="Javascript"></a>
+  <a href="https://github.com/"><img width="5%" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" alt="GitHub"></a>
+  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a>
+  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a>
+  <a href="#"><img width="60px" src="https://cdn.svgporn.com/logos/sass.svg"></a>
+  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a>
+  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
+  <a href="#"><img width="60px" src="https://img.icons8.com/color/2x/nodejs.png"></a>
+  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a>
+  <a href="#"><img width="10%" src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif"></a>
+  <a href="#"><img width="5%" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"></a>
+  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a>
+  <a href="#"><img width="30px" src="https://cdn.svgporn.com/logos/html-5.svg"></a>
+  <a href="#"><img width="30px" src="https://cdn.svgporn.com/logos/css-3.svg"></a>
+  <a href="#"><img width="50px" src="https://img.icons8.com/bubbles/2x/console.png"></a>
+<br>
+<br>
 - 🌱 &nbsp; I’m currently learning Full Stack Development.
 - 🛠 &nbsp; I’m currently working with HTML, CSS, SCSS, Ruby, Ruby on Rails, JavaScript.
 - 👯 &nbsp; I’m looking to collaborate on  REACT projects
