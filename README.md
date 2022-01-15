@@ -11,6 +11,16 @@
  <br>
 I am a <i>Computer Science Engineer</i> who graduated from Higher National Computer Science School known as ESI in Algeria. I am currently a full time student at Microverse, learning <i> Full Stack Web Development </i>. I like  collaborating with others to build digital solutions that solve real-world problems.
 <br/>
+<br>
+
+
+- 🌱 &nbsp; I’m currently learning Full Stack Development.
+- 🛠 &nbsp; I’m currently working with HTML, CSS, SCSS, Ruby, Ruby on Rails, JavaScript.
+- 👯 &nbsp; I’m looking to collaborate on  REACT projects
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 💬 Ask me about anything. I will try to help you as much as I can.
+- ⚡ Quote: If you don't have any shadows, you're not standing in the light.
+<br>
 ## My Tech Stack
   
   <br>
@@ -31,17 +41,9 @@ I am a <i>Computer Science Engineer</i> who graduated from Higher National Compu
   <a href="#"><img width="50px" src="https://img.icons8.com/bubbles/2x/console.png"></a>
 <br/>
 <br>
-
-
-
-- 🌱 &nbsp; I’m currently learning Full Stack Development.
-- 🛠 &nbsp; I’m currently working with HTML, CSS, SCSS, Ruby, Ruby on Rails, JavaScript.
-- 👯 &nbsp; I’m looking to collaborate on  REACT projects
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 💬 Ask me about anything. I will try to help you as much as I can.
-- ⚡ Quote: If you don't have any shadows, you're not standing in the light.
 <br>
-<br>
+
+
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">How about some stats ?
 
