@@ -20,7 +20,8 @@ I am a <i>Computer Science Engineer</i> who graduated from Higher National Compu
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: If you don't have any shadows, you're not standing in the light.
-<br>
+</br>
+
 ## My Tech Stack
   
   <br>
