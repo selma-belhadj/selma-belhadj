@@ -1,26 +1,27 @@
 # 👋 Hello World!  Selma is here!
-
-[<img src="assets/github.png" alt="github logo" width="40">](https://github.com/selma-belhadj) 
-[<img src="assets/Twitter.png" width="40">](https://twitter.com/Bel_Selma16)
-[<img src="assets/link.png" alt="linkedin logo" width="40">](https://www.linkedin.com/in/selma-belhadj/) 
-<img align="right" alt="Person coding gif" src="assets/PersonCoding.gif" height="250" width="320" />
-[<img src="assets/email.png" alt="gmaillogo" width="40">](belhadjselma1@gmail.com)
-
- ## More about me
- ❤️ Programming | 🖤 Travelling | 💙 Nature
+ 
+ ## About me 
+  <img align="right" alt="Person coding gif" src="assets/PersonCoding.gif" height="250" width="320" />
+  In love with ❤️ Programming | 🖤 Reading | 💙 Nature
  <br>
 <br>
-I am a <i>Computer Science Engineer</i> who graduated from Higher National Computer Science School known as ESI in Algeria. I am currently a full time student at Microverse, learning <i> Full Stack Web Development </i>. I like  collaborating with others to build digital solutions that solve real-world problems.
+I am a <i>Computer Science Engineer</i> who graduated from Higher National Computer Science School known as ESI in Algeria. I am currently a full time student at Microverse, learning <i>Full Stack Web Development</i>. I like  collaborating with others to build digital solutions that solve real-world problems.
+
 <br/>
 <br>
 
-
+## More About me
 - 🌱 &nbsp; I’m currently learning Full Stack Development.
-- 🛠 &nbsp; I’m currently working with HTML, CSS, SCSS, Ruby, Ruby on Rails, JavaScript.
+- 🛠 &nbsp; I’m currently working with  JavaScript, React, Ruby, Ruby on Rails.
 - 👯 &nbsp; I’m looking to collaborate on  REACT projects
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: If you don't have any shadows, you're not standing in the light.
+
+[<img src="assets/github.png" alt="github logo" width="40">](https://github.com/selma-belhadj) 
+[<img src="assets/Twitter.png" width="40">](https://twitter.com/Bel_Selma16)
+[<img src="assets/link.png" alt="linkedin logo" width="40">](https://www.linkedin.com/in/selma-belhadj/) 
+[<img src="assets/email.png" alt="gmaillogo" width="40">](belhadjselma1@gmail.com)
 </br>
 
 ## My Tech Stack
@@ -30,10 +31,8 @@ I am a <i>Computer Science Engineer</i> who graduated from Higher National Compu
   <a href="https://github.com/"><img width="5%" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" alt="GitHub"></a>
   <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a>
   <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a>
-  <a href="#"><img width="60px" src="https://cdn.svgporn.com/logos/sass.svg"></a>
   <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a>
   <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
-  <a href="#"><img width="60px" src="https://img.icons8.com/color/2x/nodejs.png"></a>
   <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a>
   <a href="#"><img width="10%" src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif"></a>
   <a href="#"><img width="5%" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"></a>
