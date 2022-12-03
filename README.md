@@ -5,7 +5,7 @@
   In love with ❤️ Programming | 🖤 Reading | 💙 Nature
  <br>
 <br>
-I am a <i>Computer Science Engineer</i> who graduated from Higher National Computer Science School known as ESI in Algeria. I am currently a full time student at Microverse, learning <i>Full Stack Web Development</i>. I like  collaborating with others to build digital solutions that solve real-world problems.
+I am a <i>Computer Science Engineer</i> who graduated from <a href="https://www.esi.dz/">Higher National Computer Science School</a> in Algeria. Getting into university served as the foundation for my passion for software development. So I later enrolled in <a href="https://www.microverse.org/">Microverse inc</a> to sharpen my skills and perfect my craft as a <i>software developer</i>. I like  collaborating with others to build digital solutions that solve real-world problems.
 
 <br/>
 <br>
