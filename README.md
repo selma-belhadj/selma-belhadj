@@ -1,9 +1,14 @@
-# Hello World!  Selma is here!
+<h1 align="center">Hello World!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/> Selma is here! </h1>
+<h3 align="center">Software Developer</h3>
+<h4 align="center"> In love with 💻 Programming | 📖 Reading | 🌿 Nature</h4>
+<div align="center">
+ <a target="_blank" href="https://www.linkedin.com/in/selma-belhadj/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+ <a target="_blank" href="mailto:belhadjselma1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a> 
+ <a target="_blank" href="https://twitter.com/selma_bel_hadj"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+</div>
  
 ## 🙋🏻‍♀️ &nbsp; About me 
   <img align="right" alt="Person coding gif" src="assets/PersonCoding.gif" height="250" width="320" />
-  In love with 💻 Programming | 📖 Reading | 🌿 Nature
- <br>
 <br>
 I am a <i>Computer Science Engineer</i> who graduated from <a href="https://www.esi.dz/">Higher National Computer Science School</a> in Algeria. Getting into university served as the foundation for my passion for software development. So I later enrolled in <a href="https://www.microverse.org/">Microverse </a> to sharpen my skills and perfect my craft as a <i>software developer</i>. I like  collaborating with others to build digital solutions that solve real-world problems.
 <br/>
@@ -47,6 +52,7 @@ I am a <i>Computer Science Engineer</i> who graduated from <a href="https://www.
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/selma-belhadj/count.svg" />
 </p>
+<!--
 <h2> Let's connect 👩🏻‍💻 and forge the future together 😁✌ </h2> 
 <div align="left">
 <a target="_blank"
@@ -57,5 +63,5 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 href="https://twitter.com/selma_bel_hadj"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <div/>
-
+-->
 
