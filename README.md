@@ -2,60 +2,37 @@
  
  ## About me 
   <img align="right" alt="Person coding gif" src="assets/PersonCoding.gif" height="250" width="320" />
-  In love with ❤️ Programming | 🖤 Reading | 💙 Nature
+  In love with 💻 Programming | 📖 Reading | 🌿 Nature
  <br>
 <br>
-I am a <i>Computer Science Engineer</i> who graduated from <a href="https://www.esi.dz/">Higher National Computer Science School</a> in Algeria. Getting into university served as the foundation for my passion for software development. So I later enrolled in <a href="https://www.microverse.org/">Microverse inc</a> to sharpen my skills and perfect my craft as a <i>software developer</i>. I like  collaborating with others to build digital solutions that solve real-world problems.
-
+I am a <i>Computer Science Engineer</i> who graduated from <a href="https://www.esi.dz/">Higher National Computer Science School</a> in Algeria. Getting into university served as the foundation for my passion for software development. So I later enrolled in <a href="https://www.microverse.org/">Microverse </a> to sharpen my skills and perfect my craft as a <i>software developer</i>. I like  collaborating with others to build digital solutions that solve real-world problems.
 <br/>
 <br>
-
-## More About me
-- 🌱 &nbsp; I’m currently learning Full Stack Development.
-- 🛠 &nbsp; I’m currently working with  JavaScript, React, Ruby, Ruby on Rails.
-- 👯 &nbsp; I’m looking to collaborate on  REACT projects
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 💬 Ask me about anything. I will try to help you as much as I can.
-- ⚡ Quote: If you don't have any shadows, you're not standing in the light.
-
-[<img src="assets/github.png" alt="github logo" width="40">](https://github.com/selma-belhadj) 
-[<img src="assets/Twitter.png" width="40">](https://twitter.com/Bel_Selma16)
-[<img src="assets/link.png" alt="linkedin logo" width="40">](https://www.linkedin.com/in/selma-belhadj/) 
-[<img src="assets/email.png" alt="gmaillogo" width="40">](belhadjselma1@gmail.com)
+<!-- ## More About me -->
+<ul>
+<li>👩🏻‍💻 &nbsp; I’m currently learning Ruby on Rails, algorithms and data structures.</li>
+<li>🤝 &nbsp; I’m looking to collaborate on  Ruby on Rails and React open source projects.</li>
+<li>💬 &nbsp; Ask me about Web Development.</li>
+<li>📜 &nbsp; Quote: Think twice, Code once.</li>
+<!-- - 👾 &nbsp; Fun fact: I used to hate cats but now they're my besties. -->
+ </ul>
 </br>
 
 ## My Tech Stack
   
-  <br>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="5%" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="Javascript"></a>
-  <a href="https://github.com/"><img width="5%" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" alt="GitHub"></a>
-  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a>
-  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a>
-  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a>
-  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
-  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a>
-  <a href="#"><img width="10%" src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif"></a>
-  <a href="#"><img width="5%" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"></a>
-  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a>
-  <a href="#"><img width="30px" src="https://cdn.svgporn.com/logos/html-5.svg"></a>
-  <a href="#"><img width="30px" src="https://cdn.svgporn.com/logos/css-3.svg"></a>
-  <a href="#"><img width="50px" src="https://img.icons8.com/bubbles/2x/console.png"></a>
-<br/>
-<br>
-<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
+![Ruby](https://img.shields.io/badge/-Ruby-05122A?&logo=Ruby)
+![Python](https://img.shields.io/badge/Python-05122A?&logo=python)
+![React](https://img.shields.io/badge/-React-05122A?&logo=React)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/MySQL-05122A?&logo=mysql)
+![Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-05122A?style=flat&logo=rubyonrails)
 
 
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">How about some stats ?
+## 📈  &nbsp; My GitHub Stats
 
 
 <h3>
-  <summary>
-    📈  &nbsp; My GitHub Stats
-  </summary> 
-  
-  <br>
-
   <p align="center">
    <a href="https://github.com/selma-belhadj">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=selma-belhadj&show_icons=true&theme=midnight-white&count_private=true"/>
@@ -64,11 +41,15 @@ I am a <i>Computer Science Engineer</i> who graduated from <a href="https://www.
 </p>
 </h3>
 
-<h2> Let's connect 👨‍💻 and forge the future together 😁✌   </h2> 
+<h2> Let's connect 👨‍💻 and forge the future together 😁✌ </h2> 
+<div align="left">
+<a target="_blank"
+href="https://www.linkedin.com/in/selma-belhadj/"><img
+src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
+href="mailto:belhadjselma1@gmail.com"><img
+src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank"
+href="https://twitter.com/selma_bel_hadj"><img
+src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<div/>
 
-</br>
 
-**Check the Repositories and don't forget to give a star ** 👇
-
-⭐ From [Selma](https://github.com/selma-belhadj)
--------
