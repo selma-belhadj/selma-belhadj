@@ -1,6 +1,6 @@
-# 👋 Hello World!  Selma is here!
+# Hello World!  Selma is here!
  
- ## About me 
+## 🙋🏻‍♀️ &nbsp; About me 
   <img align="right" alt="Person coding gif" src="assets/PersonCoding.gif" height="250" width="320" />
   In love with 💻 Programming | 📖 Reading | 🌿 Nature
  <br>
@@ -18,7 +18,7 @@ I am a <i>Computer Science Engineer</i> who graduated from <a href="https://www.
  </ul>
 </br>
 
-## My Tech Stack
+## 🛠 &nbsp; My Tech Stack
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
 ![Ruby](https://img.shields.io/badge/-Ruby-05122A?&logo=Ruby)
@@ -39,9 +39,15 @@ I am a <i>Computer Science Engineer</i> who graduated from <a href="https://www.
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selma-belhadj&show_icons=true&theme=midnight-white&layout=compact" alt="selma" />
   </a>
 </p>
+<!-- ![](https://komarev.com/ghpvc/?username=selma-belhadj&color=green) -->
+
 </h3>
 
-<h2> Let's connect 👨‍💻 and forge the future together 😁✌ </h2> 
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/selma-belhadj/count.svg" />
+</p>
+<h2> Let's connect 👩🏻‍💻 and forge the future together 😁✌ </h2> 
 <div align="left">
 <a target="_blank"
 href="https://www.linkedin.com/in/selma-belhadj/"><img
