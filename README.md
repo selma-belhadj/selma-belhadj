@@ -1,4 +1,4 @@
-<h1 align="center">Hello World!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/> Selma is here! </h1>
+<h1 align="center">Salam World!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/> Selma is here! </h1>
 <h3 align="center">Software Developer</h3>
 <h4 align="center"> In love with 💻 Programming | 📖 Reading | 🌿 Nature</h4>
 <div align="center">
@@ -10,15 +10,15 @@
 ## 🙋🏻‍♀️ &nbsp; About me 
   <img align="right" alt="Person coding gif" src="assets/PersonCoding.gif" height="250" width="320" />
 <br>
-I am a <i>Computer Science Engineer</i> who graduated from <a href="https://www.esi.dz/">Higher National Computer Science School</a> in Algeria. Getting into university served as the foundation for my passion for software development. So I later enrolled in <a href="https://www.microverse.org/">Microverse </a> to sharpen my skills and perfect my craft as a <i>software developer</i>. I like  collaborating with others to build digital solutions that solve real-world problems.
+I received my Master’s degree in <i>computer science engineering</i> from the <a href="https://www.esi.dz/">Higher National Computer Science School</a>. Getting into university served as the foundation for my passion for software development. I later decided to strengthen my skills and joined <a href="https://www.microverse.org/">Microverse</a> to perfect my craft as a <i>software developer</i>. I like  collaborating with others to build digital solutions that solve real-world problems.
 <br/>
 <br>
 <!-- ## More About me -->
 <ul>
 <li>👩🏻‍💻 &nbsp; I’m currently learning Ruby on Rails, algorithms and data structures.</li>
-<li>🤝 &nbsp; I’m looking to collaborate on  Ruby on Rails and React open source projects.</li>
+<li>🤝 &nbsp; I’m looking to collaborate on  Ruby on Rails and React open-source projects.</li>
 <li>💬 &nbsp; Ask me about Web Development.</li>
-<li>📜 &nbsp; Quote: Think twice, Code once.</li>
+<li>📜 &nbsp; Quote: Think twice, code once..</li>
 <!-- - 👾 &nbsp; Fun fact: I used to hate cats but now they're my besties. -->
  </ul>
 </br>
