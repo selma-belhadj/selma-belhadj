@@ -10,7 +10,7 @@
 ## 🙋🏻‍♀️ &nbsp; About me 
   <img align="right" alt="Person coding gif" src="assets/PersonCoding.gif" height="250" width="320" />
 <br>
-I received my Master’s degree in <i>computer science engineering</i> from the <a href="https://www.esi.dz/">Higher National Computer Science School</a>. Getting into university served as the foundation for my passion for software development. I later decided to strengthen my skills and joined <a href="https://www.microverse.org/">Microverse</a> to perfect my craft as a <i>software developer</i>. I like  collaborating with others to build digital solutions that solve real-world problems.
+I received my Master’s degree in <i>computer science engineering</i> from the <a href="https://www.esi.dz/">Higher Computer Science School</a>. I later decided to join <a href="https://www.microverse.org/">Microverse</a> to strengthen my skills and perfect my craft as a <i>software developer</i>. I like collaborating with others to build digital solutions that solve real-world problems.
 <br/>
 <br>
 <!-- ## More About me -->
