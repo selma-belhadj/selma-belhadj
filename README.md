@@ -17,8 +17,8 @@ I received my Master’s degree in <i>computer science engineering</i> from the 
 <ul>
 <li>👩🏻‍💻 &nbsp; I’m currently learning Ruby on Rails, algorithms and data structures.</li>
 <li>🤝 &nbsp; I’m looking to collaborate on  Ruby on Rails and React open-source projects.</li>
-<li>💬 &nbsp; Ask me about Web Development.</li>
-<li>📜 &nbsp; Quote: Think twice, code once..</li>
+<li>💬 &nbsp; Ask me about Web development.</li>
+<li>📜 &nbsp; Quote: Think twice, code once.</li>
 <!-- - 👾 &nbsp; Fun fact: I used to hate cats but now they're my besties. -->
  </ul>
 </br>
