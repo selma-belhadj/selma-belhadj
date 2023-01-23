@@ -1,6 +1,6 @@
 <h1 align="center">Salam World!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/> Selma is here! </h1>
 <h3 align="center">Software Developer</h3>
-<h4 align="center"> In love with 💻 Programming | 📖 Reading | 🌿 Nature</h4>
+<h4 align="center"> In love with 💻 Programming | 📖 Learning | 🌿 Nature</h4>
 <div align="center">
  <a target="_blank" href="https://www.linkedin.com/in/selma-belhadj/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
  <a target="_blank" href="mailto:belhadjselma1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a> 
