@@ -1,4 +1,7 @@
-# Selma Belhadj
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
+  <img alt="Selma Belhadj" src="assets/header-light.png" width="100%">
+</picture>
 
 **Software Engineer · Critical systems, data integrity and security**
 
