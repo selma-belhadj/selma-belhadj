@@ -11,4 +11,4 @@ Computer science engineer from ESI Algiers, retrained in full-stack development 
 
 My professional code is private. The public repositories here are learning projects from my Microverse training (2022), and my current algorithm practice in Java.
 
-[LinkedIn](https://www.linkedin.com/in/selma-belhadj)
+[Website](https://selma-belhadj.github.io) · [LinkedIn](https://www.linkedin.com/in/selma-belhadj)
